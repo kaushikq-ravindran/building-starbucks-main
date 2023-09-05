@@ -29,24 +29,6 @@ Implemented REST APIs
 <br /><br /><br />
 
 <br /><br /><br />
-## Links
-1. [Demo](https://youtu.be/4YCAaoqBXl4)
-
-2. GitHub Repository:- https://github.com/vsaylee4/TeamHydra_Starbucks
-
-3. Project Journal:- https://github.com/vsaylee4/TeamHydra_Starbucks/tree/master/ProjectJournal
-
-4. Sprint Task Sheet:- https://github.com/vsaylee4/TeamHydra_Starbucks/blob/master/ProjectJournal/Sprint%20Task%20Sheet%20-%20Team%20Hyrda.xlsx
-
-5. Presentation Slide Deck:- https://github.com/vsaylee4/TeamHydra_Starbucks/blob/master/images/Starbucks.pptx
-
-6. Project Board:- https://github.com/vsaylee4/TeamHydra_Starbucks/tree/master/ProjectBoard
-
-7. Screen Shots:- https://github.com/vsaylee4/TeamHydra_Starbucks/tree/master/images 
-
-8. UI Wireframes:- https://github.com/vsaylee4/TeamHydra_Starbucks/tree/master/UI_Wireframes
-
-<br /><br />
 
 ## BurnDown Chart
 
