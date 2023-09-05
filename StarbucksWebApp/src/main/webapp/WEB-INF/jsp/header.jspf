@@ -1,0 +1,26 @@
+<%
+ String UserEmail= (String)session.getAttribute("UserEmail");
+  %>
+ <div class="headerelement">
+<img src="resources/images/starbuckshomelogo.png" width="40px" height="40px" />
+</div> 
+ <div class="headericon"  onclick="showMenu()">
+ <div class="fa fa-bars" id="menuicon">
+ </div>
+ </div>
+ <ul id="menuoptions" style="display: none;">
+ <li><a href="dashboard">My Cards</a></li>
+ <li><a href="order">Order</a></li>
+ <li><a href="payments">Payments</a></li>
+ <li><a href="rewards">Rewards</a></li>
+ <li><a href="store">Stores</a></li>
+ <li><a href="addcard">Settings</a></li>
+ <hr aria-hidden="true">
+ <form action="/userprofile" method="post" name = "profile">
+  <li style="float: left"><a href="javascript:document.profile.submit()">Profile</a></li>
+  </form>
+ <form action="/logout" method="post">
+  <li><button type="submit" class="signout fa fa-sign-out">Sign out</button></li>
+  </form>
+ </ul>
+ 

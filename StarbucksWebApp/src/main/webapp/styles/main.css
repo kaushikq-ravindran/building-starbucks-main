@@ -1,0 +1,81 @@
+@charset "UTF-8";
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.card {
+/* 	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+ border-right: 1px solid rgba(0, 0, 0, 0.2);
+	 height: 100%;
+}
+.container {
+	height: 100%;
+}
+.header {
+	width: 100%;
+	position: relative;
+	padding: 4%;
+	
+}
+.headerelement {
+	float: left;
+	width: 20%;
+	line-height: 35px;
+}
+a{
+	text-decoration: none;
+}
+.loginform {
+	position: relative;
+	clear: both;
+	margin-top: 20%;
+	text-align: center;
+}
+.registerform {
+	position: relative;
+	clear: both;
+	margin-top: 15%;
+	text-align: center;
+}
+
+.loginelement {
+	padding: 3%;
+}
+.leftcontent {
+	float: left;
+	width:40%;
+}
+.rightcontent {
+	float: left;
+	width:59.8%;
+	background-color: #f7f7f7;
+	
+}
+.headercontent {
+	clear: both;
+	margin-top: 40%;
+	margin-left: 15%;
+	width:36%;
+}
+input {
+	font-size: 18px;
+  border: 0;
+  outline: 0;
+  width: 50%;
+  background: transparent;
+  border-bottom: 1px solid black;
+  padding: 0.5%;
+}
+.submitbtn {
+    padding: 15px 2.0rem;
+  background-color: #4CAF50; 
+    box-shadow: 0 0 6px rgba(0,0,0,.24), 0 8px 12px rgba(0,0,0,.14);
+    border-radius: 500px;
+     color: #fff; 
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 1.2;
+    overflow: hidden;
+    text-align: center;
+}
