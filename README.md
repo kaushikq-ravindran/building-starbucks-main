@@ -11,7 +11,7 @@ Created web UI to display work flow.
 Deployed on Cloud using ElasticBeanStalk, Auto Scale Group and Ro. 
 
 Implemented REST APIs 
-<br /><br /
+<br /><br/>
 ## Architecture Diagram
 ![Arch](/images/arch.PNG)
 
