@@ -11,9 +11,7 @@ Created web UI to display work flow.
 Deployed on Cloud using ElasticBeanStalk, Auto Scale Group and Ro. 
 
 Implemented REST APIs 
-
-
-<br /><br /><br />
+<br /><br /
 ## Architecture Diagram
 ![Arch](/images/arch.PNG)
 
@@ -28,13 +26,6 @@ Implemented REST APIs
 ![AWS Deployment](/images/AWSDeploymentDiag.PNG)
 <br /><br /><br />
 
-<br /><br /><br />
-
-## BurnDown Chart
-
-![Burndown](/images/BurndownChart.jpg)
-
-<br /><br />
 ## Cloud Deployment
 
 Deployed on AWS Cloud using EBS. 
